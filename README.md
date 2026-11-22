@@ -22,8 +22,6 @@ Welcome to my GitHub Profile!
 ## 📂 My Projects
 
 - Supply Chain Dashboard
-- Sales Analysis Dashboard
-- Employee Management System
 - Portfolio Website
 
 ## 🎯 Career Goal
@@ -33,7 +31,7 @@ real-world business problems using data.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: ADD_YOUR_LINKEDIN_LINK_HERE
+- https://www.linkedin.com/in/pooja-mohalkar-341937383
 
 ---
 ⭐ Thank you for visiting my profile!
